@@ -1,2 +1,2 @@
 # dharin-shah
-Hosting of my Static content
+Hosts my Resume
